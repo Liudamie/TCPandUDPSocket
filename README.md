@@ -1,0 +1,3 @@
+多用户通信项目以及网络多线程例子
+Server端运行QQServer
+Client端运行QQClient
